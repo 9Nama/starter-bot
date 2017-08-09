@@ -14,12 +14,12 @@ Clone este projeto e siga os passos abaixo:
 $ gem install bundler
 $ bundle install
 ```
-###Conteúdo de exemplo:
+### Conteúdo de exemplo:
 nesse bot encontramos 2 intenções, 2 fluxos aiml e um fluxo default, alem de uma entidade e uma associação intenção com entidade.
 
 DISCLAIMER: este bot é para ser usado como exemplo inicial na aula de introdução a N.A.I.L, caso queira participar do beta ou participar de uma dessas aulas por favor entre em contato em hi@nama.ai
 
-###Comandos básicos:
+### Comandos básicos:
 
 - preparar zip do bot e enviar para a pasta compartilhada 
 ```

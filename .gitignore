@@ -1,0 +1,8 @@
+csvs
+geral*.json
+geral*.zip
+sac*.json
+sac*.zip
+deploy.sh
+test.sh
+.env

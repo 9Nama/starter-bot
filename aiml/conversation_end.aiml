@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+  <category>
+    <pattern>^ CONVERSATION_END ^</pattern>
+    <template>
+      Ok, ate logo!
+    </template>
+  </category>
+
+  <category>
+    <pattern>^ CONVERSATION_END CONVERSATION_END_TYPE AGRADECIMENTO ^</pattern>
+    <template>
+      Que bom que gostou! volte sempre!
+    </template>
+  </category>
+  
+</aiml>
